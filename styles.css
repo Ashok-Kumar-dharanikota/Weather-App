@@ -89,5 +89,10 @@ body {
 
 .humidity, .wind {
     font-size: 25px;
-    margin-top: 10px;
+    margin-top: 25px;
+}
+
+.title {
+    font-size: 25px;
+    margin-top: -20px;
 }
